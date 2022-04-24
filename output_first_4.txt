@@ -1,0 +1,63 @@
+❯ git submodule foreach "python ../../../copy_badge_files.py;python run_on_each.py"
+Entering 'libraries/drivers/24lc32'
+Previous HEAD position was bcd6b6e Merge pull request #17 from muranyia/patch-1
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+[main 6bcae82] change discord badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Username for 'https://github.com': foamyguy
+Password for 'https://foamyguy@github.com':
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 317 bytes | 317.00 KiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git
+   8578d3f..6bcae82  main -> main
+Entering 'libraries/drivers/74hc595'
+Previous HEAD position was 8576b63 "Reformatted per new black version"
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+[main 8d2ad9a] change discord badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 324 bytes | 324.00 KiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git
+   104a223..8d2ad9a  main -> main
+Entering 'libraries/helpers/AWS_IOT'
+Previous HEAD position was e56a0ce Merge pull request #18 from tekktrik/doc/add-typing
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+[main 54b16ca] change discord badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 322 bytes | 322.00 KiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/adafruit/Adafruit_CircuitPython_AWS_IOT.git
+   1759c54..54b16ca  main -> main
+Entering 'libraries/helpers/GC_IOT_Core'
+Previous HEAD position was 2e6c781 Merge pull request #22 from Neradoc/fix-documentation-params-and-code-blocks
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+[main 5af7710] change discord badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 323 bytes | 323.00 KiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/adafruit/Adafruit_CircuitPython_GC_IOT_Core.git
+   a47c486..5af7710  main -> main

@@ -28,7 +28,7 @@ if OLD_BADGE_URL in readme_str:
     # os.system("git add README.rst")
     #
     # # make new commit
-    # os.system('git commit -m "add docs link to readme"')
+    # os.system('git commit -m "change discord badge"')
     #
     #
     # # push origin main
